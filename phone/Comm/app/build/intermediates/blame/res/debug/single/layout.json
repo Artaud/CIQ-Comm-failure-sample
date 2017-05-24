@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/res/merged/debug/layout/activity_device.xml",
+        "source": "/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_device.xml"
+    },
+    {
+        "merged": "/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_main.xml"
+    }
+]

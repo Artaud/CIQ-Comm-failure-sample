@@ -1,0 +1,4 @@
+#Wed May 24 17:25:44 CEST 2017
+base.0=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

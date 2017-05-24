@@ -1,0 +1,7 @@
+#Wed May 24 17:25:44 CEST 2017
+base.0=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ddb6caf0df340c6cf9f7393dd311b401bf2ea91
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb619180b15359e27dfb6272b9ea2a9865ee51d3/classes.dex
+base.1=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb619180b15359e27dfb6272b9ea2a9865ee51d3
+file.0=/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ddb6caf0df340c6cf9f7393dd311b401bf2ea91/classes.dex

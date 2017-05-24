@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="source/CommApp.mc" lineNum="27" pc="268435456" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="28" pc="268435460" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="30" pc="268435482" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="31" pc="268435506" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="32" pc="268435530" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="33" pc="268435545" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="35" pc="268435572" symbol="initialize"/>
+<entry filename="source/CommApp.mc" lineNum="40" pc="268435597" symbol="onStart"/>
+<entry filename="source/CommApp.mc" lineNum="41" pc="268435601" symbol="onStart"/>
+<entry filename="source/CommApp.mc" lineNum="42" pc="268435635" symbol="onStart"/>
+<entry filename="source/CommApp.mc" lineNum="46" pc="268435680" symbol="onStop"/>
+<entry filename="source/CommApp.mc" lineNum="47" pc="268435684" symbol="onStop"/>
+<entry filename="source/CommApp.mc" lineNum="48" pc="268435693" symbol="onStop"/>
+<entry filename="source/CommApp.mc" lineNum="49" pc="268435702" symbol="onStop"/>
+<entry filename="source/CommApp.mc" lineNum="50" pc="268435711" symbol="onStop"/>
+<entry filename="source/CommApp.mc" lineNum="54" pc="268435721" symbol="getInitialView"/>
+<entry filename="source/CommApp.mc" lineNum="55" pc="268435725" symbol="getInitialView"/>
+<entry filename="source/CommApp.mc" lineNum="58" pc="268435793" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="59" pc="268435797" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="61" pc="268435797" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="63" pc="268435810" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="64" pc="268435817" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="65" pc="268435817" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="66" pc="268435844" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="68" pc="268435885" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="69" pc="268435910" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="70" pc="268435923" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="73" pc="268435939" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="74" pc="268435955" symbol="onMail"/>
+<entry filename="source/CommApp.mc" lineNum="77" pc="268435972" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="78" pc="268435976" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="80" pc="268435976" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="81" pc="268436018" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="84" pc="268436037" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="85" pc="268436064" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="87" pc="268436105" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="88" pc="268436136" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="90" pc="268436149" symbol="onPhone"/>
+<entry filename="source/CommApp.mc" lineNum="93" pc="268436166" symbol="timerCallback"/>
+<entry filename="source/CommApp.mc" lineNum="95" pc="268436170" symbol="timerCallback"/>
+<entry filename="source/CommApp.mc" lineNum="97" pc="268436193" symbol="timerCallback"/>
+<entry filename="source/CommApp.mc" lineNum="98" pc="268436217" symbol="timerCallback"/>
+<entry filename="source/CommView.mc" lineNum="15" pc="268436251" symbol="initialize"/>
+<entry filename="source/CommView.mc" lineNum="16" pc="268436255" symbol="initialize"/>
+<entry filename="source/CommView.mc" lineNum="19" pc="268436274" symbol="onLayout"/>
+<entry filename="source/CommView.mc" lineNum="20" pc="268436278" symbol="onLayout"/>
+<entry filename="source/CommView.mc" lineNum="23" pc="268436308" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="24" pc="268436312" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="25" pc="268436336" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="26" pc="268436399" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="27" pc="268436462" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="28" pc="268436525" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="29" pc="268436588" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="31" pc="268436678" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="32" pc="268436741" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="33" pc="268436804" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="34" pc="268436867" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="36" pc="268436959" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="37" pc="268437010" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="38" pc="268437061" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="39" pc="268437112" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="41" pc="268437166" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="42" pc="268437217" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="43" pc="268437268" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="44" pc="268437319" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="45" pc="268437370" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="46" pc="268437421" symbol="drawIntroPage"/>
+<entry filename="source/CommView.mc" lineNum="50" pc="268437473" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="51" pc="268437477" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="52" pc="268437513" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="53" pc="268437525" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="55" pc="268437561" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="56" pc="268437578" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="58" pc="268437595" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="59" pc="268437595" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="61" pc="268437602" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="62" pc="268437665" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="63" pc="268437686" symbol="onUpdate"/>
+<entry filename="source/CommView.mc" lineNum="64" pc="268437752" symbol="onUpdate"/>
+<entry filename="source/CommDelegate.mc" lineNum="12" pc="268437776" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="13" pc="268437780" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="16" pc="268437803" symbol="onComplete"/>
+<entry filename="source/CommDelegate.mc" lineNum="17" pc="268437807" symbol="onComplete"/>
+<entry filename="source/CommDelegate.mc" lineNum="20" pc="268437829" symbol="onError"/>
+<entry filename="source/CommDelegate.mc" lineNum="21" pc="268437833" symbol="onError"/>
+<entry filename="source/CommDelegate.mc" lineNum="26" pc="268437855" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="27" pc="268437859" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="30" pc="268437882" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="31" pc="268437886" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="32" pc="268437914" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="34" pc="268437914" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="35" pc="268437936" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="36" pc="268437958" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="37" pc="268437982" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="39" pc="268438010" symbol="onMenu"/>
+<entry filename="source/CommDelegate.mc" lineNum="42" pc="268438014" symbol="onTap"/>
+<entry filename="source/CommDelegate.mc" lineNum="43" pc="268438018" symbol="onTap"/>
+<entry filename="source/CommDelegate.mc" lineNum="44" pc="268438035" symbol="onTap"/>
+<entry filename="source/CommDelegate.mc" lineNum="46" pc="268438051" symbol="onTap"/>
+<entry filename="source/CommDelegate.mc" lineNum="48" pc="268438064" symbol="onTap"/>
+<entry filename="source/CommDelegate.mc" lineNum="53" pc="268438081" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="54" pc="268438085" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="57" pc="268438108" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="58" pc="268438112" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="59" pc="268438140" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="61" pc="268438143" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="62" pc="268438154" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="63" pc="268438176" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="64" pc="268438198" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="65" pc="268438220" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="67" pc="268438258" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="68" pc="268438275" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="69" pc="268438297" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="70" pc="268438312" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="72" pc="268438337" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="73" pc="268438359" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="74" pc="268438381" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="77" pc="268438408" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="82" pc="268438437" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="83" pc="268438441" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="86" pc="268438464" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="87" pc="268438468" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="89" pc="268438492" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="90" pc="268438503" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="92" pc="268438541" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="94" pc="268438579" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="97" pc="268438606" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="102" pc="268438631" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="103" pc="268438635" symbol="initialize"/>
+<entry filename="source/CommDelegate.mc" lineNum="106" pc="268438658" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="107" pc="268438662" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="108" pc="268438673" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="110" pc="268438711" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="111" pc="268438726" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="114" pc="268438767" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="115" pc="268438784" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="117" pc="268438815" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="118" pc="268438825" symbol="onMenuItem"/>
+<entry filename="source/CommDelegate.mc" lineNum="121" pc="268438852" symbol="onMenuItem"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="40" symbol="phoneFail"/>
+<entry id="8388716" symbol="trap"/>
+<entry id="39" symbol="none"/>
+<entry id="20" object="true" symbol="BaseMenuDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="35" symbol="hello"/>
+<entry field="true" id="8" symbol="page"/>
+<entry id="22" object="true" symbol="ListnerMenuDelegate"/>
+<entry field="true" id="10" symbol="stringsSize"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8388643" symbol="Sensor"/>
+<entry id="37" symbol="mailbox"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="38" symbol="phone"/>
+<entry id="21" object="true" symbol="SendMenuDelegate"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="28" method="true" symbol="drawIntroPage"/>
+<entry id="19" object="true" symbol="CommInputDelegate"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389481" symbol="setListener"/>
+<entry field="true" id="26" symbol="LauncherIcon"/>
+<entry id="18" object="true" symbol="CommListener"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="34" symbol="sendData"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="25" symbol="id_monkey"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="12" symbol="phoneMethod"/>
+<entry id="29" method="true" symbol="onMail"/>
+<entry id="17" object="true" symbol="CommView"/>
+<entry id="16" object="true" symbol="CommExample"/>
+<entry id="24" module="true" symbol="Layouts"/>
+<entry field="true" id="11" symbol="mailMethod"/>
+<entry id="8389939" symbol="registerForPhoneAppMessages"/>
+<entry id="36" symbol="garmin"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="30" method="true" symbol="onPhone"/>
+<entry id="31" method="true" symbol="timerCallback"/>
+<entry field="true" id="15" symbol="SAMPLE_PERIOD"/>
+<entry field="true" id="14" symbol="dataTimer"/>
+<entry id="23" module="true" symbol="Menus"/>
+<entry field="true" id="8388936" symbol="info"/>
+<entry field="true" id="9" symbol="strings"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="13" symbol="crashOnMessage"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435936" name="i" stackId="3" startPc="268435817"/>
+<entry endPc="268435971" name="mail" stackId="2" startPc="268435797"/>
+<entry endPc="268436165" name="i" stackId="2" startPc="268435976"/>
+<entry endPc="268436250" name="listener" stackId="1" startPc="268436170"/>
+<entry endPc="268437775" name="i" stackId="2" startPc="268437595"/>
+<entry endPc="268437775" name="y" stackId="3" startPc="268437595"/>
+<entry endPc="268438013" name="delegate" stackId="2" startPc="268437886"/>
+<entry endPc="268438013" name="menu" stackId="1" startPc="268437886"/>
+<entry endPc="268438436" name="delegate" stackId="3" startPc="268438112"/>
+<entry endPc="268438436" name="menu" stackId="2" startPc="268438112"/>
+<entry endPc="268438630" name="listener" stackId="2" startPc="268438468"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="CommExample">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="CommExample">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMail" parent="CommExample">
+<param id="mailIter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onPhone" parent="CommExample">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="timerCallback" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CommView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawIntroPage" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CommView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry name="onComplete" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry name="onError" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CommInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="CommInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="CommInputDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BaseMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="BaseMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SendMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="SendMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ListnerMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="ListnerMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

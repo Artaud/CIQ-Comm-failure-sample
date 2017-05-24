@@ -1,0 +1,9 @@
+/**
+ * Copyright (C) 2015 Garmin International Ltd.
+ * Subject to Garmin SDK License Agreement and Wearables Application Developer Agreement.
+ */
+
+The Comm Android application is a sample companion application for ConnectIQ.
+
+It works with the corresponding Comm Widget sample found within the ConnectIQ
+samples folder.

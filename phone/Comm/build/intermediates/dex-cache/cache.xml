@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/libs/connectiq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9604e61470378705ad0442612de9ad161addca1d">
+        <dex dex="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/2/connectiq_89307a80b504087a7ec4ea82eb9aa66b574ba729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ddb6caf0df340c6cf9f7393dd311b401bf2ea91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ac6f0a99369e4c54b7f346bc37c7685f2fc3bd2">
+        <dex dex="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb619180b15359e27dfb6272b9ea2a9865ee51d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/artaud/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_4d4d2897c1bbd05cd92d0ac7f7883a75653058bb/classes.dex" />
+    </item>
+
+</items>
