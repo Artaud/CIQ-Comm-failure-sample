@@ -9,14 +9,15 @@ They are to show how easy is to get to the point where any attempt at communicat
 
 The phone Comm sample has been modified only by adding a logger that logs any messages (beginnings of..) sent to the watch, along with the message status, as follows:
 
+```
 05-24 17:55:18.223 23371-23371/com.garmin.android.apps.connectiq.sample.comm I/onListItemClick: Hello Worl SUCCESS
 05-24 17:53:24.116 23371-23371/com.garmin.android.apps.connectiq.sample.comm I/onListItemClick: Lorem ipsu FAILURE_DURING_TRANSFER
-
+```
 
 The watch Comm sample has been modified by adding a timer that periodically polls the accelerometric sensor and sends the data via Comm.transmit to the phone.
 Period of the timer is set by
 
-const SAMPLE_PERIOD = 5000; //ms
+`const SAMPLE_PERIOD = 5000; //ms`
 
 ## Steps to reproduce:
 
