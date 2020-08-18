@@ -45,11 +45,14 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
     private IQDevice mDevice;
     private IQApp mMyApp;
     private boolean mAppIsOpen;
+    private TextView logView;
+    private String log = "";
 
     private IQOpenApplicationListener mOpenAppListener = new IQOpenApplicationListener() {
         @Override
         public void onOpenApplicationResponse(IQDevice device, IQApp app, IQOpenApplicationStatus status) {
             Toast.makeText(getApplicationContext(), "App Status: " + status.name(), Toast.LENGTH_SHORT).show();
+            Log.i(TAG, "App Status: " + status.name());
 
             if (status == IQOpenApplicationStatus.APP_IS_ALREADY_RUNNING) {
                 mAppIsOpen = true;
@@ -64,6 +67,8 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.i(TAG, "DeviceActivity onCreate");
+
         setContentView(R.layout.activity_device);
 
         Intent intent = getIntent();
@@ -74,6 +79,7 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
         mDeviceName = (TextView)findViewById(R.id.devicename);
         mDeviceStatus = (TextView)findViewById(R.id.devicestatus);
         mOpenAppButton = (TextView)findViewById(R.id.openapp);
+        logView = (TextView)findViewById(R.id.logs);
     }
 
     @Override
@@ -106,10 +112,12 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
 
             // Let's check the status of our application on the device.
             try {
+                Log.i(TAG, "GetApplicationInfo");
                 mConnectIQ.getApplicationInfo(MY_APP, mDevice, new IQApplicationInfoListener() {
 
                     @Override
                     public void onApplicationInfoReceived(IQApp app) {
+                        Log.i(TAG, "onApplicationInfoReceived");
                         // This is a good thing. Now we can show our list of message options.
                         String[] options = getResources().getStringArray(R.array.send_message_display);
 
@@ -118,9 +126,11 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
 
                         // Send a message to open the app
                         try {
-                            Toast.makeText(getApplicationContext(), "Opening app...", Toast.LENGTH_SHORT).show();
+//                            Toast.makeText(getApplicationContext(), "Opening app...", Toast.LENGTH_SHORT).show();
+                            logToLogView("Opening app...");
                             mConnectIQ.openApplication(mDevice, app, mOpenAppListener);
                         } catch (Exception ex) {
+                            Log.i(TAG, "Exception " + ex.toString());
                         }
                     }
 
@@ -137,7 +147,9 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
 
                 });
             } catch (InvalidStateException e1) {
+                Log.i(TAG, "InvalidStateException:  We should not be here!");
             } catch (ServiceUnavailableException e1) {
+                Log.i(TAG, "ServiceUnavailableException:  We should not be here!");
             }
 
             // Let's register to receive messages from our application on the device.
@@ -159,13 +171,17 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
                             }
                         } else {
                             builder.append("Received an empty message from the application");
+                            logToLogView("Received an empty message from the application");
                         }
 
-                        AlertDialog.Builder dialog = new AlertDialog.Builder(DeviceActivity.this);
-                        dialog.setTitle(R.string.received_message);
-                        dialog.setMessage(builder.toString());
-                        dialog.setPositiveButton(android.R.string.ok, null);
-                        dialog.create().show();
+//                        Toast.makeText(DeviceActivity.this, "Msg received from watch: " + builder.toString(), Toast.LENGTH_SHORT).show();
+                        logToLogView("Msg received from watch: " + builder.toString());
+
+//                        AlertDialog.Builder dialog = new AlertDialog.Builder(DeviceActivity.this);
+//                        dialog.setTitle(R.string.received_message);
+//                        dialog.setMessage(builder.toString());
+//                        dialog.setPositiveButton(android.R.string.ok, null);
+//                        dialog.create().show();
                     }
 
                 });
@@ -202,8 +218,8 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
 
                 @Override
                 public void onMessageStatus(IQDevice device, IQApp app, IQMessageStatus status) {
-                    Log.i("onListItemClick", message.toString().substring(0, 10) + " " + status.toString());
-                    Toast.makeText(DeviceActivity.this, status.name(), Toast.LENGTH_SHORT).show();
+                    Log.i("onListItemClick", message.toString().substring(0, Math.min(10, message.toString().length())) + " " + status.toString());
+                    logToLogView("Sent msg to watch, status: " + status.name());
                 }
 
             });
@@ -224,6 +240,15 @@ public class DeviceActivity extends ListActivity implements View.OnClickListener
             } catch (Exception ex) {
             }
         }
+    }
+
+    private void logToLogView(String msg) {
+        if (msg.endsWith("\n")) {
+            log = msg.concat(log);
+        } else {
+            log = msg.concat("\n").concat(log);
+        }
+        logView.setText(log);
     }
 
 }

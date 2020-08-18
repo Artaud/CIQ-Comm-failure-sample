@@ -1,13 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res"/><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/generated/res/rs/debug"/><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res"><file name="ic_launcher" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="ic_launcher" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.core:core:1.0.0" from-dependency="true" generated-set="androidx.core:core:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res"><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-mn/values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-it/values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-iw/values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-as/values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-de/values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ky/values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sr/values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-en-rGB/values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-uz/values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-hu/values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-am/values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-nb/values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-si/values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-fr/values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-km/values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-th/values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-en-rIN/values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-bg/values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-tl/values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-pl/values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-lo/values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-kk/values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-zu/values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ca/values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-is/values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-az/values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-vi/values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-en-rAU/values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-bs/values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-v16/values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-uk/values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ms/values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-et/values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-el/values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-pt/values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-af/values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-my/values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-es-rUS/values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ne/values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-lv/values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-eu/values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-pt-rPT/values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-gu/values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-fi/values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-pa/values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ka/values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values/values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
         
-    </style></file><file name="ic_launcher" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_main" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="activity_device" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_device.xml" qualifiers="" type="layout"/><file name="main" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <attr name="android:color"/>
         
-    </style></file><file name="ic_launcher" path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
         
-    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <attr format="string" name="fontProviderAuthority"/>
         
-    </style></file><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values/strings.xml" qualifiers=""><string name="load_devices">Reload Devices</string><string name="hello_world">Hello World</string><string name="missing_widget_message">The Comm Widget used with this application is not installed on your ConnectIQ device.   Please install the widget and try again.</string><string name="absurd_string">Absurd String</string><string name="initialization_error">Failed to initalize the SDK.\n</string><string name="long_string_message">Lorem ipsum dolor sit amet, pri ex epicuri luptatum, cum tantas partem fastidii an. Ea quot iudicabit vim, vis copiosae repudiandae at. Pri ut agam animal epicuri, nam cu omnis latine voluptatibus. Est dicat viderer ei, at possit sapientem ullamcorper vix, et eum virtute dolorum intellegat. No summo animal forensibus sit, singulis dissentiunt vix at, id congue theophrastus cum. Eam ex semper molestiae, te porro labore mel.</string><string name="medium_string">Medium String</string><string name="app_name">Comm</string><string name="dictionary">Dictionary of Values</string><string name="hello_world_message">Hello World!</string><string name="tap_to_send">Tap message below to send to device.</string><string name="medium_string_message">Why hello there, good world! This is a medium-length string.</string><string name="array">Array of Values</string><string name="open_app_already_open">The Comm app is already open on the device.</string><string name="complex">Complex Data Type</string><string name="received_message">Received message from device.</string><string name="short_string_message">Hi</string><string name="short_string">Short String</string><string name="open_app_open">Tap here to open the Comm app on the device.</string><string name="long_string">Long String</string><string name="service_unavailable">The ConnectIQ service is unavailabe.</string><string name="absurd_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ultricies enim. Quisque venenatis sed nisl a molestie. Sed iaculis commodo erat nec dignissim. Aenean vitae fermentum diam, fringilla vehicula orci. Donec quis lorem velit. Vivamus sit amet mauris volutpat, faucibus tellus quis, fringilla ligula. Phasellus tempor auctor malesuada. Duis tempor id dolor et sagittis. Vivamus sem magna, condimentum et lacus at, semper pretium nunc. Phasellus volutpat, metus eget egestas dictum, massa mauris dictum justo, quis viverra neque felis ut augue. In hendrerit eros vitae dui laoreet sodales. Praesent vitae odio vitae arcu luctus imperdiet. Phasellus venenatis ex in nunc finibus, ac elementum sapien aliquam. Etiam pulvinar tincidunt mauris non faucibus. Vestibulum ut enim sit amet metus sodales porttitor. Proin ut venenatis orci, nec volutpat neque. Integer pretium risus vel nibh fringilla, vel egestas lectus semper. Integer eleifend mauris id odio blandit ornare. In nec dui aliquam, pulvinar massa ut, mollis mi. Nunc nec mauris est. Nunc efficitur eget ligula et dapibus. Vestibulum varius urna quam, eget tristique magna fringilla id. Quisque blandit dolor mattis metus interdum lacinia. In in accumsan ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris nunc nunc, interdum nec tempus ut, facilisis vel eros. Curabitur vitae tellus nec elit semper faucibus. Donec sed diam facilisis, porttitor urna vitae, interdum sapien. Nunc nec eros at leo sollicitudin fermentum at et orci. Proin erat lorem, tincidunt id nunc vel, egestas sodales erat. Praesent sem augue, aliquam vulputate cursus quis, dapibus quis nisl. Aenean tincidunt sapien eu tincidunt rutrum. Aenean ultricies auctor magna eget tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus id massa diam. Etiam at ipsum id nisi finibus ultrices gravida eu est. Fusce at velit a urna pulvinar mollis sit amet vel quam. Vivamus mi ante, tempus id lacus sit amet, laoreet condimentum lectus. Nulla facilisi. Morbi eget nisl non nibh maximus maximus a a erat. Nulla nec pellentesque ex. Maecenas malesuada ante ac magna vestibulum, id tincidunt nisi vestibulum. Vestibulum at magna eu dolor finibus cursus fringilla a elit. Etiam a nunc in lacus maximus viverra. Nulla bibendum, tortor ac ultrices pulvinar, magna mi tristique tellus, sed mattis magna mauris et arcu. Donec consequat tortor et ligula condimentum dignissim. Aliquam at massa et massa blandit elementum nec sed nunc. Fusce tempor quam tellus, eu suscipit elit consequat et. Cras quis massa at nulla aliquet tristique eget sit amet eros. In pulvinar massa et orci rhoncus lacinia. Quisque semper feugiat erat, sit amet facilisis justo feugiat a. Nullam mattis lorem in nisl maximus, sed suscipit enim tempus. Nam sed aliquam elit, quis pharetra mi. Aliquam erat volutpat. Cras dapibus vel sapien non aliquet. Etiam lacinia tempus euismod. Donec ultricies est non ante eleifend, et blandit lorem consequat. Nulla tincidunt massa et tellus ornare, eu ornare nisl auctor. Nam ac posuere ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque porttitor, arcu et pharetra porta, tellus ipsum vestibulum ex, ac dictum risus mauris a massa. Phasellus in quam dui. Vestibulum et ligula at justo scelerisque posuere. Cras pretium ac nisi vel tincidunt. Suspendisse aliquam, tellus ac consectetur dapibus, turpis sapien dictum odio, sit amet fermentum ex elit at diam. In hac habitasse platea dictumst. Ut bibendum pharetra aliquet. Aenean condimentum lacus ligula, at auctor sem semper at. Aenean sollicitudin neque augue, at tempor est commodo eu. Mauris massa tortor, mollis posuere nisi vitae, efficitur volutpat odio. Phasellus faucibus pellentesque augue, ut vulputate augue condimentum vel. Aliquam eu gravida dui, sed vestibulum justo. Curabitur nec mauris augue. Sed eu lobortis magna. Suspendisse bibendum est hendrerit hendrerit dignissim. Sed vel nisi magna. Mauris ultricies tincidunt porttitor. Praesent congue diam turpis, eu feugiat neque sollicitudin sed. Nullam molestie est posuere odio luctus volutpat. Nam lacinia nisl vel ex sodales posuere. Curabitur quis aliquam nulla. Ut dapibus sem arcu, a posuere dolor hendrerit eleifend. Curabitur ornare eu lorem eget egestas. Vivamus venenatis porta ipsum, vitae efficitur felis porttitor ut. Donec lobortis ornare suscipit. Etiam eget dolor ut felis condimentum elementum. Duis pretium eget nunc a tempor. Pellentesque vel dui leo. Ut condimentum risus eu velit sollicitudin semper. Nullam pellentesque ut turpis vitae sollicitudin. Duis blandit feugiat odio sit amet fermentum. Quisque ultrices dapibus metus, sed laoreet mi blandit ut. Sed at dui vitae turpis suscipit varius et eu velit. Donec mattis augue placerat pharetra vehicula. Nam convallis mauris ut turpis ultricies, volutpat imperdiet eros viverra. Etiam nisl est, accumsan at scelerisque sit amet, elementum quis ex. Curabitur ac sapien lacus. Phasellus et eleifend nisl. Donec eu eleifend felis, id ultrices nibh. In hendrerit arcu quis justo blandit varius sed eget libero. Nulla egestas magna vehicula, pellentesque nibh quis, congue tortor. Ut sed hendrerit nisl, id posuere lorem. Suspendisse sodales est id mauris pretium porttitor. Integer risus magna, lacinia nec lorem eu, pulvinar mattis turpis. Proin aliquam turpis velit, quis placerat felis sollicitudin at. Fusce condimentum quam eget lorem interdum, et ornare urna fermentum. Quisque elit arcu, laoreet tempus leo id, blandit vehicula mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam mauris mauris, sollicitudin id tortor vitae, condimentum suscipit lectus. Morbi congue sit amet risus quis egestas. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent pellentesque metus eget quam pulvinar mollis. In ut neque risus. Curabitur massa erat, dapibus a lacus eget, faucibus rhoncus risus. Aenean imperdiet dolor quis commodo pulvinar. Vivamus porttitor diam fermentum interdum posuere.</string><string name="missing_widget">Missing Comm Widget</string></file><file path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/values/arrays.xml" qualifiers=""><string-array name="send_message_display">
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sv/values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ml/values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-nl/values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-lt/values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-fr-rCA/values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-mk/values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sk/values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-kn/values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-ta/values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-es/values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-or/values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/res/values-sq/values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0" from-dependency="true" generated-set="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/res"><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/res/values/values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.media:media:1.0.0" from-dependency="true" generated-set="androidx.media:media:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/res"><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/res/values/values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file><file path="/home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/res/values-v24/values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res"/><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/build/generated/res/rs/debug"/><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res"><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file name="ic_launcher" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file name="activity_device" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/layout/activity_device.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values/arrays.xml" qualifiers=""><string-array name="send_message_display">
         <item>@string/hello_world</item>
         <item>@string/short_string</item>
         <item>@string/medium_string</item>
@@ -16,4 +200,174 @@
         <item>@string/array</item>
         <item>@string/dictionary</item>
         <item>@string/complex</item>
-    </string-array></file></source><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/generated/res/rs/debug"/><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/debug/res"/></dataSet><mergedItems/></merger>
+    </string-array></file><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Comm</string><string name="load_devices">Reload Devices</string><string name="initialization_error">Failed to initalize the SDK.\n</string><string name="service_unavailable">The ConnectIQ service is unavailabe.</string><string name="tap_to_send">Tap message below to send to device.</string><string name="open_app_open">Tap here to open the Comm app on the device.</string><string name="open_app_already_open">The Comm app is already open on the device.</string><string name="received_message">Received message from device.</string><string name="hello_world_message">Hello World!</string><string name="short_string_message">Hi</string><string name="medium_string_message">Why hello there, good world! This is a medium-length string.</string><string name="long_string_message">Lorem ipsum dolor sit amet, pri ex epicuri luptatum, cum tantas partem fastidii an. Ea quot iudicabit vim, vis copiosae repudiandae at. Pri ut agam animal epicuri, nam cu omnis latine voluptatibus. Est dicat viderer ei, at possit sapientem ullamcorper vix, et eum virtute dolorum intellegat. No summo animal forensibus sit, singulis dissentiunt vix at, id congue theophrastus cum. Eam ex semper molestiae, te porro labore mel.</string><string name="absurd_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ultricies enim. Quisque venenatis sed nisl a molestie. Sed iaculis commodo erat nec dignissim. Aenean vitae fermentum diam, fringilla vehicula orci. Donec quis lorem velit. Vivamus sit amet mauris volutpat, faucibus tellus quis, fringilla ligula. Phasellus tempor auctor malesuada. Duis tempor id dolor et sagittis. Vivamus sem magna, condimentum et lacus at, semper pretium nunc. Phasellus volutpat, metus eget egestas dictum, massa mauris dictum justo, quis viverra neque felis ut augue. In hendrerit eros vitae dui laoreet sodales. Praesent vitae odio vitae arcu luctus imperdiet. Phasellus venenatis ex in nunc finibus, ac elementum sapien aliquam. Etiam pulvinar tincidunt mauris non faucibus. Vestibulum ut enim sit amet metus sodales porttitor. Proin ut venenatis orci, nec volutpat neque. Integer pretium risus vel nibh fringilla, vel egestas lectus semper. Integer eleifend mauris id odio blandit ornare. In nec dui aliquam, pulvinar massa ut, mollis mi. Nunc nec mauris est. Nunc efficitur eget ligula et dapibus. Vestibulum varius urna quam, eget tristique magna fringilla id. Quisque blandit dolor mattis metus interdum lacinia. In in accumsan ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris nunc nunc, interdum nec tempus ut, facilisis vel eros. Curabitur vitae tellus nec elit semper faucibus. Donec sed diam facilisis, porttitor urna vitae, interdum sapien. Nunc nec eros at leo sollicitudin fermentum at et orci. Proin erat lorem, tincidunt id nunc vel, egestas sodales erat. Praesent sem augue, aliquam vulputate cursus quis, dapibus quis nisl. Aenean tincidunt sapien eu tincidunt rutrum. Aenean ultricies auctor magna eget tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus id massa diam. Etiam at ipsum id nisi finibus ultrices gravida eu est. Fusce at velit a urna pulvinar mollis sit amet vel quam. Vivamus mi ante, tempus id lacus sit amet, laoreet condimentum lectus. Nulla facilisi. Morbi eget nisl non nibh maximus maximus a a erat. Nulla nec pellentesque ex. Maecenas malesuada ante ac magna vestibulum, id tincidunt nisi vestibulum. Vestibulum at magna eu dolor finibus cursus fringilla a elit. Etiam a nunc in lacus maximus viverra. Nulla bibendum, tortor ac ultrices pulvinar, magna mi tristique tellus, sed mattis magna mauris et arcu. Donec consequat tortor et ligula condimentum dignissim. Aliquam at massa et massa blandit elementum nec sed nunc. Fusce tempor quam tellus, eu suscipit elit consequat et. Cras quis massa at nulla aliquet tristique eget sit amet eros. In pulvinar massa et orci rhoncus lacinia. Quisque semper feugiat erat, sit amet facilisis justo feugiat a. Nullam mattis lorem in nisl maximus, sed suscipit enim tempus. Nam sed aliquam elit, quis pharetra mi. Aliquam erat volutpat. Cras dapibus vel sapien non aliquet. Etiam lacinia tempus euismod. Donec ultricies est non ante eleifend, et blandit lorem consequat. Nulla tincidunt massa et tellus ornare, eu ornare nisl auctor. Nam ac posuere ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque porttitor, arcu et pharetra porta, tellus ipsum vestibulum ex, ac dictum risus mauris a massa. Phasellus in quam dui. Vestibulum et ligula at justo scelerisque posuere. Cras pretium ac nisi vel tincidunt. Suspendisse aliquam, tellus ac consectetur dapibus, turpis sapien dictum odio, sit amet fermentum ex elit at diam. In hac habitasse platea dictumst. Ut bibendum pharetra aliquet. Aenean condimentum lacus ligula, at auctor sem semper at. Aenean sollicitudin neque augue, at tempor est commodo eu. Mauris massa tortor, mollis posuere nisi vitae, efficitur volutpat odio. Phasellus faucibus pellentesque augue, ut vulputate augue condimentum vel. Aliquam eu gravida dui, sed vestibulum justo. Curabitur nec mauris augue. Sed eu lobortis magna. Suspendisse bibendum est hendrerit hendrerit dignissim. Sed vel nisi magna. Mauris ultricies tincidunt porttitor. Praesent congue diam turpis, eu feugiat neque sollicitudin sed. Nullam molestie est posuere odio luctus volutpat. Nam lacinia nisl vel ex sodales posuere. Curabitur quis aliquam nulla. Ut dapibus sem arcu, a posuere dolor hendrerit eleifend. Curabitur ornare eu lorem eget egestas. Vivamus venenatis porta ipsum, vitae efficitur felis porttitor ut. Donec lobortis ornare suscipit. Etiam eget dolor ut felis condimentum elementum. Duis pretium eget nunc a tempor. Pellentesque vel dui leo. Ut condimentum risus eu velit sollicitudin semper. Nullam pellentesque ut turpis vitae sollicitudin. Duis blandit feugiat odio sit amet fermentum. Quisque ultrices dapibus metus, sed laoreet mi blandit ut. Sed at dui vitae turpis suscipit varius et eu velit. Donec mattis augue placerat pharetra vehicula. Nam convallis mauris ut turpis ultricies, volutpat imperdiet eros viverra. Etiam nisl est, accumsan at scelerisque sit amet, elementum quis ex. Curabitur ac sapien lacus. Phasellus et eleifend nisl. Donec eu eleifend felis, id ultrices nibh. In hendrerit arcu quis justo blandit varius sed eget libero. Nulla egestas magna vehicula, pellentesque nibh quis, congue tortor. Ut sed hendrerit nisl, id posuere lorem. Suspendisse sodales est id mauris pretium porttitor. Integer risus magna, lacinia nec lorem eu, pulvinar mattis turpis. Proin aliquam turpis velit, quis placerat felis sollicitudin at. Fusce condimentum quam eget lorem interdum, et ornare urna fermentum. Quisque elit arcu, laoreet tempus leo id, blandit vehicula mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam mauris mauris, sollicitudin id tortor vitae, condimentum suscipit lectus. Morbi congue sit amet risus quis egestas. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent pellentesque metus eget quam pulvinar mollis. In ut neque risus. Curabitur massa erat, dapibus a lacus eget, faucibus rhoncus risus. Aenean imperdiet dolor quis commodo pulvinar. Vivamus porttitor diam fermentum interdum posuere.</string><string name="hello_world">Hello World</string><string name="short_string">Short String</string><string name="medium_string">Medium String</string><string name="long_string">Long String</string><string name="absurd_string">Absurd String</string><string name="array">Array of Values</string><string name="dictionary">Dictionary of Values</string><string name="complex">Complex Data Type</string><string name="missing_widget">Missing Comm Widget</string><string name="missing_widget_message">The Comm Widget used with this application is not installed on your ConnectIQ device.   Please install the widget and try again.</string></file><file path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file name="main" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/></source><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/build/generated/res/rs/debug"/><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

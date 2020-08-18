@@ -76,11 +76,28 @@
         android:layout_marginTop="5dip"
         android:background="#cdcdcd" />
 
-    <ListView
-        android:id="@android:id/list"
+    <LinearLayout
+        android:layout_below="@id/dividerC"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/dividerC" />
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/logs"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textAppearance="@android:style/TextAppearance.Material.Small" />
+
+    </LinearLayout>
 
     <TextView
         android:id="@android:id/empty"

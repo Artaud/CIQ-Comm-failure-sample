@@ -26,14 +26,7 @@ class CommExample extends App.AppBase {
 
     function initialize() {
         App.AppBase.initialize();
-
-        mailMethod = method(:onMail);
-        phoneMethod = method(:onPhone);
-        if(Comm has :registerForPhoneAppMessages) {
-            Comm.registerForPhoneAppMessages(phoneMethod);
-        } else {
-            Comm.setMailboxListener(mailMethod);
-        }
+        Comm.registerForPhoneAppMessages(method(:onPhone));
     }
 
     // onStart() is called on application start up
@@ -55,30 +48,11 @@ class CommExample extends App.AppBase {
         return [new CommView(), new CommInputDelegate()];
     }
 
-    function onMail(mailIter) {
-        var mail;
-
-        mail = mailIter.next();
-
-        while(mail != null) {
-            var i;
-            for(i = (stringsSize - 1); i > 0; i -= 1) {
-                strings[i] = strings[i-1];
-            }
-            strings[0] = mail.toString();
-            page = 1;
-            mail = mailIter.next();
-        }
-
-        Comm.emptyMailbox();
-        Ui.requestUpdate();
-    }
-
     function onPhone(msg) {
         var i;
 
         if((crashOnMessage == true) && msg.data.equals("Hi")) {
-            foo = bar;
+//            foo = bar;
         }
 
         for(i = (stringsSize - 1); i > 0; i -= 1) {

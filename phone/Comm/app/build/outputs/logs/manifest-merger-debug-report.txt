@@ -1,63 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:6:1-36:12
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/5c19ca1a4638e9c78653f5d9bfebad33/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:1-34:12
 	package
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:7:5-60
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:7:5-60
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:9:5-30
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-	android:versionCode
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:8:5-28
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:9:5-30
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:6:11-69
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:6:11-69
+	android:versionCode
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:8:5-28
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:11:5-13:41
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/5c19ca1a4638e9c78653f5d9bfebad33/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/5c19ca1a4638e9c78653f5d9bfebad33/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
+INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
 	android:targetSdkVersion
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:13:9-38
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:15-44
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:12:9-35
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
-		INJECTED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:11:5-47
+		INJECTED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:15:5-66
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:15:22-64
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:17:5-34:19
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:15:5-32:19
+MERGED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/5c19ca1a4638e9c78653f5d9bfebad33/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/5c19ca1a4638e9c78653f5d9bfebad33/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/artaud/.gradle/caches/transforms-2/files-2.1/6d11613c3b6a00a9ea456b5609ec43f7/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:20:9-41
-	android:allowBackup
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:18:9-35
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:18:9-41
 	android:icon
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:19:9-45
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:19:9-40
 activity#com.garmin.android.apps.connectiq.sample.comm.MainActivity
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:22:9-30:20
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:20:9-28:20
 	android:label
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:23:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:25:13-29:29
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:28:17-77
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:26:27-74
 activity#com.garmin.android.apps.connectiq.sample.comm.DeviceActivity
-ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:31:9-33:48
+ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:29:9-31:48
 	android:label
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:33:13-45
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:31:13-45
 	android:name
-		ADDED from /home/artaud/connectiq/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/AndroidManifest.xml:32:13-43
+		ADDED from /home/artaud/Projects/urbandroid/CIQ-Comm-failure-sample/phone/Comm/app/src/main/AndroidManifest.xml:30:13-43
